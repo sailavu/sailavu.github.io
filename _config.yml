@@ -20,7 +20,6 @@ timezone:    Australia/Sydney
 
 future:      true
 show_drafts: false
-limit_posts: 0
 pygments:    false
 
 permalink:     /blog/:year/:month/:day/:title/
